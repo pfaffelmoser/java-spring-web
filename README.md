@@ -1,6 +1,6 @@
 [![Build Status][ci-img]][ci] [![Released Version][maven-img]][maven]
 
-# OpenTracing Spring Web Instrumentation
+# OpenTracing Spring Web Instrumentations
 
 This library provides instrumentation for Spring Web applications (Boot, MVC and WebFlux). It creates tracing data for 
 server requests and also client requests (`RestTemplate`, `AsyncRestTemplate` and `WebClient`).
